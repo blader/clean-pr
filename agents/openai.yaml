@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean PR"
+  short_description: "Clean up diffs and drive PRs to closure"
+  default_prompt: "Use $clean-pr to run three behavior-preserving refactor passes on this diff, close test gaps, and drive the PR to review resolution."
